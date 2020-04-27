@@ -2,7 +2,7 @@
   {
     "title":"Platoon",
     "rating": 4.7,
-    "imageUrl": null,
+    "image": "platoon.jpg",
     "category": "Drama",
     "categories": ["Drama"],
     "year": 1986,
@@ -14,7 +14,7 @@
   {
     "title":"The Terminator",
     "rating": 4.2,
-    "imageUrl": null,
+    "image": "the-terminator.jpg",
     "category": "Action",
     "categories": ["Action", "Sci-Fi"],
     "year": 1984,
@@ -26,7 +26,7 @@
   {
     "title": "Stand by Me",
     "rating":4.3,
-    "imageUrl": null,
+    "image": "stand-by-me.jpg",
     "category": "Drama",
     "categories": ["Drama", "Adventure"],
     "year": 1986,
@@ -38,7 +38,7 @@
   {
     "title": "Home Alone",
     "rating":4.3,
-    "imageUrl": null,
+    "image": "home-alone.jpg",
     "category": "Drama",
     "categories": ["Comedy", "Family"],
     "year": 1990,
@@ -50,7 +50,7 @@
   {
     "title": "The Godfather",
     "rating":4.3,
-    "imageUrl": null,
+    "image": "the-godfather.jpg",
     "category": "Drama",
     "categories": ["Drama"],
     "year": 1972,
@@ -62,7 +62,7 @@
   {
     "title": "Star Wars: Episode IV - A New Hope",
     "rating":4.3,
-    "imageUrl": null,
+    "image": "star-wars-episode-iv-a-new-hope.jpg",
     "category": "Action",
     "categories": ["Action","Sci-Fi", "Adventure"],
     "year": 1977,
@@ -74,7 +74,7 @@
   {
     "title": "The Dark Knight",
     "rating":4.3,
-    "imageUrl": null,
+    "image": "the-dark-knight.jpg",
     "category": "Action",
     "categories": ["Action", "Drama"],
     "year": 2008,
@@ -86,7 +86,7 @@
   {
     "title": "Fight Club",
     "rating":4.3,
-    "imageUrl": null,
+    "image": "fight-club.jpg",
     "category": "Drama",
     "categories": ["Drama"],
     "year": 1999,
@@ -98,7 +98,7 @@
   {
     "title": "Forrest Gump",
     "rating":4.3,
-    "imageUrl": null,
+    "image": "forrest-gump.jpg",
     "category": "Drama",
     "categories": ["Drama"],
     "year": 1994,
